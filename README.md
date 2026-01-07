@@ -49,7 +49,7 @@ The System Administration Toolkit is a powerful bash-based application that prov
 1. Clone or download the toolkit:
 ```bash
 git clone https://github.com/devmonixtechnologies/systuff.git
-cd shellset
+cd systuff
 ```
 
 2. Make the main script executable:
